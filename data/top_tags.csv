@@ -1,0 +1,887 @@
+tag,count
+Tech Support,9597
+IT,9320
+Performance,7536
+Feedback,4814
+Bug,3956
+Security,3811
+Feature,3741
+Disruption,3428
+Documentation,3425
+Outage,2574
+Network,2159
+Sales,1615
+Recovery,1555
+Product,1358
+Billing,922
+Hardware,874
+Payment,785
+Marketing,732
+Support,715
+Crash,676
+Software,554
+Maintenance,545
+Virus,452
+Account,410
+Integration,393
+Strategy,373
+Alert,358
+Refund,290
+Lead,283
+Compliance,275
+Analytics,240
+Campaign,232
+Customer Support,223
+Healthcare,196
+Issue,191
+Data Protection,166
+Troubleshooting,164
+Incident,158
+Login,150
+System,133
+Data Breach,129
+Scalability,126
+Confidentiality,125
+Compatibility,124
+Training,123
+Guidance,123
+SaaS,121
+Data,116
+Server,115
+Assistance,109
+Digital Marketing,108
+Notification,107
+Investigation,100
+Technical Support,95
+Digital Strategy,94
+Software Update,94
+Encryption,93
+Vulnerability,89
+Privacy,86
+Social Media,85
+Data Analytics,82
+Digital,78
+Engagement,77
+Infrastructure,74
+Subscription,71
+Data Privacy,67
+Workflow,66
+Platform,65
+Database,63
+Error,62
+Update,61
+Brand Development,59
+API,59
+Configuration,59
+Content,58
+Discount,57
+Investment,57
+Pricing,57
+Growth,55
+Optimization,55
+Employee,54
+Brand Growth,52
+Connectivity,52
+Service,52
+Project Management,51
+Malware,51
+Firewall,50
+Cache,48
+Access Control,45
+Medical Data,45
+Brand,45
+Backup,45
+Software Conflict,41
+HR,40
+Breach,36
+Discrepancy,35
+Best Practices,33
+Financial,33
+Return,33
+Audience,32
+Promotion,31
+Brand Expansion,30
+Advertising,29
+Software Compatibility,28
+Branding,28
+Technology,27
+Improvement,27
+Information Security,26
+Integrity,26
+Data Integration,26
+Invoice,26
+Cost,26
+Unauthorized Access,26
+Algorithm,25
+Cloud,25
+Synchronization,24
+SEO,23
+Data Integrity,23
+Hospital,23
+Efficiency,22
+Deployment,22
+System Integration,22
+Firmware,22
+Availability,21
+Inquiry,21
+Visibility,21
+Enhancement,20
+Patient Data,20
+Brand Visibility,20
+Agency,19
+Access Management,19
+Protocol,19
+Online Visibility,19
+User Experience,19
+Data Analysis,18
+Data Synchronization,18
+Sensitive Data,18
+Cyber Threat,18
+System Update,17
+Monitoring,17
+Customer Service,17
+Data Management,17
+Business Growth,17
+Online Presence,17
+Effectiveness,17
+Implementation,16
+Application,16
+Risk,16
+Hospital System,16
+Urgent,15
+Data Security,15
+Business,14
+Delay,14
+Best Practice,14
+System Issue,14
+Decision Making,14
+Finance,14
+Case Study,14
+Access,13
+Tutorial,13
+Machine Learning,13
+Data Processing,13
+Information,13
+Authentication,13
+Collaboration,12
+Stability,12
+Productivity,12
+Analysis,12
+Replacement,12
+Digital Campaign,12
+Content Creation,11
+Threat,11
+System Security,11
+Coordination,11
+Data Discrepancy,11
+Automation,11
+Audit,11
+ERP,11
+Insight,11
+Software Integration,11
+Project,10
+Phishing,10
+Patient Privacy,10
+Upgrade,10
+Conflict,10
+Budget,10
+Process,10
+HIPAA,10
+Protection,10
+System Reboot,9
+Payment Gateway,9
+Organization,9
+Creative,9
+Digital Tools,9
+Customer Engagement,9
+Business Expansion,9
+Sensitive Information,9
+Brand Awareness,9
+Server Overload,9
+Protocols,9
+Business Development,9
+DataProtection,9
+Medical Records,8
+System Overload,8
+Patient Information,8
+Hospital Infrastructure,8
+Campaign Management,8
+Device,8
+Accuracy,8
+Risk Management,8
+Reliability,8
+Transaction,8
+Customization,8
+System Cache,8
+Cybersecurity,8
+Content Marketing,7
+Innovation,7
+Critical,7
+Development,7
+Traffic,7
+Setup,7
+Investment Strategy,7
+Reboot,7
+Customer,7
+Microservice,7
+VPN,7
+Dashboard,7
+Technical Issue,7
+Driver,7
+Usability,6
+Decision,6
+Real-time,6
+Visualization,6
+System Integrity,6
+Reconciliation,6
+License,6
+Review,6
+Patch,6
+Data Access,6
+Diagnostics,6
+Policy,6
+Gateway,6
+Response,6
+System Scan,6
+Planning,6
+Resource,6
+Data Availability,6
+Adjustment,6
+Regulation,6
+Memory,6
+Load Balancing,6
+Outdated Security,6
+Order,6
+Communication,5
+Data Inconsistency,5
+Exchange,5
+Management,5
+Content Development,5
+Certification,5
+Outdated,5
+Solution,5
+Connection,5
+Onboarding,5
+Website,5
+Tool,5
+Market Trend,5
+Team,5
+Content Strategy,5
+Instruction,5
+Outreach,5
+Urgency,5
+Browser,5
+Advice,5
+Customer Interaction,5
+Trial,4
+Load,4
+Data Encryption,4
+Messaging,4
+Campaigns,4
+CRM,4
+Testing,4
+Resolution,4
+UI,4
+Digital Platform,4
+Consulting,4
+Document,4
+Resources,4
+Query,4
+Inaccuracy,4
+Request,4
+Incident Response,4
+Installation,4
+Email,4
+Audio,4
+Reporting,4
+Model,4
+User Interface,4
+Email Marketing,4
+Hospital Systems,4
+Python,4
+Brand Management,4
+Cyber Attack,4
+Medical Information,4
+Market,4
+Digital Transformation,4
+Outdated Software,4
+Plugin,4
+Root Cause,4
+Password,4
+Auditing,4
+Log,4
+Regulations,4
+Software Issue,4
+Customer Experience,3
+Antivirus,3
+Website Traffic,3
+Cost Breakdown,3
+Microservices,3
+Kubernetes,3
+GCP,3
+Data Regulation,3
+Navigation,3
+Software Development Kit,3
+Tools,3
+System Failure,3
+Procedure,3
+Security Measures,3
+Decision Support,3
+Change,3
+Credential,3
+Marketing Agency,3
+Security Protocol,3
+Clarification,3
+Social Media Management,3
+Oracle,3
+Patient Confidentiality,3
+Speed,3
+Cloud-Native,3
+Rebooting,3
+System Problem,3
+SAP ERP,3
+Brand Engagement,3
+Medical,3
+Prediction,3
+Expansion,3
+Fee,3
+Integration Issue,3
+Assessment,3
+Conversion,3
+Application Issue,3
+Diagnostic,3
+Technical Difficulty,3
+Trend,3
+User Guidance,3
+Resource Allocation,3
+Cyberattack,3
+Outdated Version,3
+PostgreSQL,3
+Digital Campaigns,3
+System Compatibility,3
+Financial Institution,3
+Data Issue,3
+Correction,3
+Report,3
+Data Quality,3
+Usage,3
+Insights,3
+SAP,3
+Campaign Effectiveness,3
+Server Synchronization,3
+Audience Segmentation,3
+Capacity,3
+Equipment,3
+Operation,3
+Sensitive,3
+Agile,2
+Salesforce,2
+Data Visualization,2
+Permission,2
+Digital Presence,2
+Service Restart,2
+External Service,2
+Security Improvement,2
+Restart,2
+Cache Issue,2
+API Integration,2
+Printer,2
+Caching,2
+Large Dataset,2
+Online Marketing,2
+Misconfiguration,2
+Functionality,2
+Hospital IT,2
+Technical Assistance,2
+Validation,2
+Router,2
+Disappointment,2
+Free Trial,2
+Driver Issue,2
+Technical Problem,2
+Behavior,2
+Challenge,2
+Investment Strategies,2
+System Requirements,2
+Platform Integration,2
+Success Story,2
+Process Improvement,2
+Indexing,2
+Financial Organization,2
+Online,2
+System Error,2
+Dependency,2
+System Check,2
+Outlook,2
+Environment,2
+User Impact,2
+Competition,2
+Target Audience,2
+Password Reset,2
+Interaction,2
+Industry Trend,2
+Outcome,2
+System Diagnostics,2
+Content Issue,2
+Investment Optimization,2
+Smart Home,2
+System Configuration,2
+Internal Review,2
+Audience Mismatch,2
+Health,2
+System Enhancement,2
+Android,2
+Financial Loss,2
+Flexibility,2
+Awareness,2
+Critical Issue,2
+Container,2
+Brand Messaging,2
+Accessibility,2
+Unresolved,2
+Malfunction,2
+Digital Growth,2
+Workaround,2
+Backend,2
+Data breach,2
+Recommendation,2
+System Upgrade,2
+Windows,2
+Impact,2
+Community,2
+Digital Expansion,2
+Swap,2
+Long-term Commitment,2
+AI,2
+Service Disruption,2
+Digital Tactics,2
+Setup Fee,2
+Data Leak,2
+Healthcare Data,2
+Market Analysis,2
+Cloud Infrastructure,2
+Docker,2
+Verification,2
+Electronics,2
+Online Advertising,2
+Campaign Performance,2
+Progress,2
+System Conflict,2
+Guide,2
+Data Accuracy,2
+Failure,2
+Patient Safety,2
+Data Exposure,2
+Authorization,2
+Software Incompatibility,2
+Service Plan,2
+Outdated Protocol,2
+System Restart,2
+Investment Analysis,2
+Microsoft,2
+SDK,2
+Ubuntu,2
+Modeling,2
+Adobe,2
+Tech,2
+Memory Leak,2
+Sluggishness,2
+Satisfaction,1
+Misalignment,1
+Reprocessing,1
+PatientPrivacy,1
+Customer Journey,1
+Hospital Solution,1
+E-signature,1
+Ink,1
+Synchronization Error,1
+Threat Prevention,1
+Potential Consequence,1
+Medical Documentation,1
+Evaluation,1
+Timely,1
+Reputational,1
+Service Breakdown,1
+Problem,1
+Good Practice,1
+Business Improvement,1
+Server overload,1
+DigitalMarketing,1
+SensitiveData,1
+Features,1
+Code,1
+Safety,1
+Security Alert,1
+Compromise,1
+Service Log,1
+External Attack,1
+User Troubleshooting,1
+Approach,1
+System Inconsistency,1
+Purchase,1
+Microsoft Dynamics,1
+Pattern,1
+Technology Support,1
+Marketing Challenges,1
+Pre-sale,1
+Credit Card,1
+Mitigation,1
+Robustness,1
+Credential Security,1
+Creativity,1
+Patient Care,1
+Limitation,1
+Vendor Support,1
+Billing Period,1
+Switch,1
+PyTorch,1
+Service Packages,1
+Tier,1
+Device Integration,1
+Kernel,1
+Timeline,1
+Diagnosis,1
+Cost Plan,1
+VR Headset,1
+Wi-Fi,1
+Intrusion,1
+Reinforcement,1
+Technical Specification,1
+Overload,1
+Tactics,1
+Online Engagement,1
+Ongoing Charge,1
+Prompt Response,1
+Issue Analysis,1
+Data Format,1
+Keras,1
+Product Integration,1
+Product Advice,1
+Security Best Practices,1
+Telehealth,1
+Access Restriction,1
+Procurement,1
+Effort,1
+Visual Design,1
+Information Management,1
+System Breach,1
+Discussion,1
+Interference,1
+Recommendations,1
+Organizational Development,1
+Payment Plans,1
+Service Issue,1
+Operational,1
+Webhook,1
+Expense,1
+Audience Targeting,1
+Mobile,1
+Report Generation,1
+Organizational Requirements,1
+Email Campaign,1
+Halted,1
+Customer Guidance,1
+Endpoint,1
+Smartsheet,1
+Overview,1
+Firewall Assessment,1
+Security Enhancement,1
+Telemedicine,1
+Standards,1
+Confidential Data,1
+Screen Sharing,1
+Suspicious Activity,1
+Cancellation,1
+Prevention,1
+Debugging,1
+Brand Campaigns,1
+Budget Reallocation,1
+Creative Content,1
+Decision-making,1
+Transaction Log,1
+Target,1
+Goals,1
+Partitioning,1
+Industry Standards,1
+SystemSecurity,1
+Risk Exposure,1
+Digital Initiatives,1
+Platform Insight,1
+Software Bug,1
+Network Security,1
+Business Objectives,1
+Critical Incident,1
+Connection Issue,1
+Bulk Purchase,1
+Business Process,1
+Software Upgrade,1
+Real-Time,1
+Expertise,1
+System Software Update,1
+Payment Plan,1
+Endpoint Security,1
+Tips,1
+Low Priority,1
+Networking,1
+Technique,1
+Reassessment,1
+System Vulnerability,1
+Log Analysis,1
+System Slowdown,1
+Version,1
+Relationship,1
+Industry Standard,1
+Software malfunction,1
+Healthcare System,1
+Discounts,1
+System Instability,1
+Visuals,1
+Security Practice,1
+Support Inquiry,1
+Frequency,1
+Revenue,1
+Productivity Tools,1
+Competitive Edge,1
+Portfolio Optimization,1
+Support Available,1
+Software Version,1
+Risk Assessment,1
+Refinement,1
+Wi-Fi Security,1
+Corrective Action,1
+Browser Cache,1
+Real-Time Insight,1
+Software Tools,1
+User,1
+Predictive,1
+Ad Spend,1
+Standard,1
+Service Options,1
+Search Engine,1
+Healthcare Security,1
+ThreatPrevention,1
+Security Solutions,1
+System stability,1
+MedicalData,1
+System Capacity,1
+Immediate Action,1
+Audience Segment,1
+Dispute,1
+Hospital Environment,1
+Drupal,1
+Node.js,1
+Delivery,1
+Shopping Behavior,1
+System Downtime,1
+System Load,1
+Prediction Error,1
+Platform Security,1
+Cloud Native,1
+Reputation,1
+Scanner,1
+Brand Recognition,1
+Storage,1
+Hospital Networks,1
+Regulatory,1
+Data Platform,1
+Organizational Change,1
+External Device,1
+App Issue,1
+Emergency,1
+Data Leakage,1
+Consultation,1
+RAID,1
+Query Optimization,1
+Shipment,1
+Financial Services,1
+Cyber,1
+Service Package,1
+Safeguarding,1
+"Security,IT,Tech Support,Data Privacy,Regulation,Patient Data,Threat Prevention",1
+Software Support,1
+Digital Space,1
+System Slowness,1
+Promotional Offer,1
+Visual,1
+"Security,Outage,Disruption,Recovery,IT,Tech Support",1
+Data Entry,1
+Version Mismatch,1
+System Log,1
+Hospital Network,1
+Editing,1
+Unforeseen,1
+DataProcessing,1
+System Application,1
+Advertisement,1
+Container Services,1
+Offer,1
+Data Accessibility,1
+E-commerce,1
+System Guidance,1
+Resource Management,1
+System Optimization,1
+SaaS Platform,1
+Product Line,1
+Data inconsistency,1
+Online Security,1
+System Resilience,1
+Business Information,1
+Digital Resources,1
+Security Update,1
+Software Limitation,1
+Records,1
+ActiveCampaign,1
+Ruby on Rails,1
+Digital Channels,1
+Marketing Automation,1
+Hardware Conflict,1
+System Congestion,1
+Software Version Mismatch,1
+Digital Branding,1
+Documentatio,1
+USB,1
+Organizational Structure,1
+Touchscreen,1
+IoT,1
+Documentatoin,1
+Cloud Software,1
+Interface,1
+Portfolio,1
+Security Management,1
+Utility,1
+Task Assignment,1
+Outdated Encryption,1
+AWS,1
+Ticket,1
+Brand Enhancement,1
+HealthIT,1
+Industry Trends,1
+Research,1
+Admin,1
+Business Strategy,1
+Technical Malfunction,1
+Process Integration,1
+Integration Error,1
+Outdated Systems,1
+Healthcare IT,1
+Cloud Platform,1
+macOS,1
+Data Tools,1
+Hadoop,1
+Digital Advertising,1
+Google Nest Wifi,1
+System details,1
+Algorithm Update,1
+Outdated Procedures,1
+Violation,1
+Attack,1
+Threat Detection,1
+Investment Data Analytics,1
+Business Analysis,1
+Content Management,1
+Glitch,1
+AccessManagement,1
+Business Operation,1
+Access Log,1
+Predictive Modeling,1
+Service Capacity,1
+Digital Channel,1
+System Bottleneck,1
+Misclassification,1
+Plan,1
+Advertising Budget,1
+Project management,1
+Portfolio Return,1
+Packages,1
+Restart Issue,1
+Software Problem,1
+HospitalInfrastructure,1
+Windows 10,1
+Warning,1
+Data Exchange,1
+Financial Analysis,1
+Ticket Management,1
+Concern,1
+Patient,1
+High Priority,1
+Data Retrieval,1
+Virtual Meeting,1
+Digital Tool,1
+Audience Engagement,1
+Business Operations,1
+System Driver,1
+Threat Evaluation,1
+Integration Challenges,1
+Smart Thermostat,1
+Audience Reach,1
+Display,1
+Digital Application,1
+Intrusion Detection,1
+Digital Footprint,1
+SystemAccess,1
+Rebranding,1
+System Connector,1
+Reinstallation,1
+HospitalSystem,1
+Exposure,1
+Financial Decision,1
+Content Growth,1
+Initiative,1
+User Friendly,1
+Inconsistency,1
+Client Engagement,1
+Third Party Tool,1
+Methodology,1
+Log Issue,1
+Warranty,1
+Financial Firm,1
+Software Patch,1
+BrandExpansion,1
+Tool Integration,1
+Analytics Platform,1
+PHP,1
+DSLR,1
+"Performance,Disruption,Outage,Monitoring,Analysis",1
+SoftwareUpdate,1
+Plans,1
+Report Issue,1
+"Performance,Disruption,IT,Tech Support",1
+Platform Issue,1
+Health IT,1
+Audio Editing,1
+Third-party Application,1
+Package,1
+Hospital Records,1
+System Version,1
+Hospital Security,1
+Tool Investment,1
+Data Storage,1
+"Security,IT,Tech Support",1
+Documentations,1
+Accounting,1
+Log Rollback,1
+Control,1
+Slowdown,1
+System Tracking,1
+Design,1
+Cassandra,1
+Service Cache,1
+Outdated Content,1
+Software Enhancement,1
+Traffic Surge,1
+Credentials,1
+Sync,1
+Payment Methods,1
+Client Support,1
+Audience Insights,1
+Payment Method,1
+Device Security,1
+Digital Services,1
+Major,1
+Leadership,1
+OS,1
+Medical Devices,1
+Downtime,1
+EMR,1
+Inspection,1
+Opportunity,1
